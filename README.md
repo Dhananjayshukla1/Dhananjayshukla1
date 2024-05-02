@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-Developer Intern @ VAMS Mechatronica Private Limited
 ----------------------------------------------------------
 
-As a coder, I have three years of experience. I spent the first 1.5 years honing my web programming skills and the final 3 years studying Data Structures and Algorithms in detail.
+As a coder, I have three years of experience. I spent the first 1.5 years honing my web programming skills and the final 2.5 years studying Data Structures and Algorithms in detail.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Dhananjayshukla199gmail.com](mailto:Dhananjayshukla199gmail.com)

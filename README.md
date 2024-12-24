@@ -8,9 +8,7 @@ As a coder, I have three years of experience. I spent the first 1.5 years honing
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Dhananjayshukla199gmail.com](mailto:Dhananjayshukla199gmail.com)
-* 🚀  I'm currently working on [VAMS Mechatronica Private Limited](http://https://www.vamsmechatronica.in/)
-* 🧠  I'm learning Backend With Node and MongoDB
-* 🤝  I'm open to collaborating on .
+* 🧠  I'm learning Backend.
 * ⚡  Be happy
 
 <a href="https://www.github.com/Dhananjayshukla1" target="_blank" rel="noreferrer"><img

@@ -34,7 +34,7 @@ src="https://img.shields.io/twitter/follow/Dhananjayshukla1?logo=twitter&style=f
 </a>
 
 <a href="https://github.com/Dhananjayshukla1">
-    <img src="https://streak-stats.demolab.com?user=Dhananjayshukla1&theme=dark&hide_border=true" />
+    <img src="https://streak-stats.vercel.app?user=Dhananjayshukla1&theme=dark&hide_border=true" />
 </a>
 
 <a href="http://www.github.com/Dhananjayshukla1">

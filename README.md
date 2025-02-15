@@ -33,8 +33,8 @@ src="https://img.shields.io/twitter/follow/Dhananjayshukla1?logo=twitter&style=f
     <img src="https://github-readme-stats.vercel.app/api?username=Dhananjayshukla1&show_icons=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true" alt="Dhananjayshukla1's GitHub stats" />
 </a>
 
-<a href="http://www.github.com/Dhananjayshukla1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhananjayshukla1&stroke=ffffff&background=27272a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<a href="https://github.com/Dhananjayshukla1">
+    <img src="https://streak-stats.demolab.com?user=Dhananjayshukla1&theme=dark&hide_border=true" />
 </a>
 
 <a href="http://www.github.com/Dhananjayshukla1">
